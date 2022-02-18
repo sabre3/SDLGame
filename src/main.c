@@ -26,7 +26,7 @@ int main(int argc, char* argv[]) {
 
     //debug
     struct Sprite* tS = (struct Sprite*)malloc(sizeof(struct Sprite));
-    //tS->source.h = NULL;
+    //tS->source.h = NULL; check later
     tS->size.h = 420;
     tS->size.w = 300;
     tS->size.x = 100;
