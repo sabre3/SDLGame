@@ -5,6 +5,7 @@
         "headers.h": "c",
         "sdl.h": "c",
         "sdl_image.h": "c",
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "time.h": "c"
     }
 }
